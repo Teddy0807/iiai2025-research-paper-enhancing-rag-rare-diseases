@@ -1,0 +1,2 @@
+# iiai2025-research-paper-enhancing-rag-rare-diseases
+This repository contains the research paper and presentation slides for the project:  **"Enhancing Generative AI Output on Rare Diseases: Development of a Database for Retrieval-Augmented Generation System"**   Presented at an international conference by Teppei Okazaki, Toyofumi Fujiwara, and Atsuko Yamaguchi (Tokyo City University, DBCLS ROIS).

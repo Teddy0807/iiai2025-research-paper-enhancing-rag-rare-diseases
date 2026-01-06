@@ -1,0 +1,141 @@
+{
+    "bibliographic_information": {
+        "pmid": "27471819",
+        "title": "Association between meal frequency with anthropometric measures and blood pressure in Iranian children and adolescents.",
+        "abstract": "This study aimed to assess the association of meal frequency with anthropometric measures and blood pressure in Iranian children and adolescents.In this national survey, 14,880 students with 6-18 years of age were selected by stratified multistage sampling method from urban and rural regions of 30 provinces of Iran. Meal frequency was assessed by a questionnaire prepared based on global school-based student health survey. Physical measurements included height, weight, waist circumference, systolic blood pressure (SBP), and diastolic blood pressure (DBP).The participation rate was 90.6% including 49.24% girls and 75.5% urban residents. Skipping breakfast and dinner were more frequent in girls than in boys (71.6% vs. 64.1%, 91.2% vs. 86.9%, respectively, P<0.05). Overweight, obesity, and abdominal obesity were more prevalent in those who had two meals, one meal, or very low intake (P<0.001) than those had three meals. There were no significant differences in SBP, DBP, and blood pressure across to different meal frequency groups (P>0.05). Students who had very low intake and one meal per week had a higher risk of abdominal obesity compared with those who had three meals (OR 1.7, 95% CI: 1.3-2.3, and OR 1.6, 95% CI: 1.4-2.0, respectively).An inverse significant association between higher meal frequency and anthropometric indices was observed. Therefore, encouraging children and adolescents for regular meal intake should be considered as a health priority in the pediatric population.",
+        "mesh": [
+            {
+                "id": "D008297",
+                "label": "Male"
+            },
+            {
+                "id": "D005260",
+                "label": "Female"
+            },
+            {
+                "id": "D006801",
+                "label": "Humans"
+            },
+            {
+                "id": "D002648",
+                "label": "Child"
+            },
+            {
+                "id": "D000293",
+                "label": "Adolescent"
+            },
+            {
+                "id": "D007492",
+                "label": "Iran",
+                "subheadings": [
+                    {
+                        "id": "Q000453",
+                        "label": "epidemiology"
+                    }
+                ]
+            },
+            {
+                "id": "D001794",
+                "label": "Blood Pressure",
+                "subheadings": [
+                    {
+                        "id": "Q000502",
+                        "label": "physiology"
+                    }
+                ]
+            },
+            {
+                "id": "D056128",
+                "label": "Obesity, Abdominal",
+                "subheadings": [
+                    {
+                        "id": "Q000453",
+                        "label": "epidemiology"
+                    },
+                    {
+                        "id": "Q000209",
+                        "label": "etiology"
+                    }
+                ]
+            },
+            {
+                "id": "D056128",
+                "label": "Obesity, Abdominal",
+                "subheadings": [
+                    {
+                        "id": "Q000453",
+                        "label": "epidemiology"
+                    },
+                    {
+                        "id": "Q000209",
+                        "label": "etiology"
+                    }
+                ]
+            },
+            {
+                "id": "D062407",
+                "label": "Meals"
+            },
+            {
+                "id": "D009765",
+                "label": "Obesity",
+                "subheadings": [
+                    {
+                        "id": "Q000453",
+                        "label": "epidemiology"
+                    }
+                ]
+            }
+        ],
+        "publication_types": [
+            "Journal Article"
+        ]
+    },
+    "annotation": [
+        {
+            "id": "MONDO:0011122",
+            "name": "obesity disorder",
+            "definition": "A disorder involving an excessive amount of body fat.",
+            "synonyms": [
+                "obesity disease",
+                "obesity"
+            ],
+            "xrefs": [
+                "MEDGEN:18127",
+                "Orphanet:521399",
+                "HP:0001513",
+                "DOID:9970",
+                "EFO:0001073",
+                "NCIT:C3283",
+                "NIFSTD:nlx_dys_20090302",
+                "ICD9:278.0",
+                "UMLS:C0028754",
+                "SCTID:414916001",
+                "ICD9:278.00"
+            ],
+            "subset": [
+                "otar"
+            ],
+            "annotation_info": [
+                {
+                    "text": "obesity",
+                    "start": "784",
+                    "end": "791",
+                    "from": "abstract"
+                },
+                {
+                    "text": "obesity",
+                    "start": "807",
+                    "end": "814",
+                    "from": "abstract"
+                },
+                {
+                    "text": "obesity",
+                    "start": "1138",
+                    "end": "1145",
+                    "from": "abstract"
+                }
+            ]
+        }
+    ]
+}
